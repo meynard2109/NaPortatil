@@ -87,3 +87,6 @@ D:\a trabajar primera presentacion\Portatiles\Portatiles\Portatiles\bin\Debug\Po
 C:\Users\ESDREY_PC\Desktop\Portatiles\Portatiles\Portatiles\bin\Debug\Portatiles.exe.config
 C:\Users\ESDREY_PC\Desktop\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.exe
 C:\Users\ESDREY_PC\Desktop\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.pdb
+C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\bin\Debug\Portatiles.exe.config
+C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.exe
+C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.pdb
