@@ -157,6 +157,12 @@
     <Compile Include="Formularios\FrmSeriesProducto.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Formularios\Kardex.Designer.vb">
+      <DependentUpon>Kardex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Kardex.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Formularios\RFMDI.Designer.vb">
       <DependentUpon>RFMDI.vb</DependentUpon>
     </Compile>
