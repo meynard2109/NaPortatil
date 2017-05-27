@@ -79,6 +79,12 @@
     <Import Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formularios\Kardex.Designer.vb">
+      <DependentUpon>Kardex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Kardex.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Formularios\FrmFacturacion.Designer.vb">
       <DependentUpon>FrmFacturacion.vb</DependentUpon>
     </Compile>
@@ -157,12 +163,6 @@
     <Compile Include="Formularios\FrmSeriesProducto.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\Kardex.Designer.vb">
-      <DependentUpon>Kardex.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\Kardex.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Formularios\RFMDI.Designer.vb">
       <DependentUpon>RFMDI.vb</DependentUpon>
     </Compile>
@@ -190,6 +190,9 @@
       <DependentUpon>Application.myapp</DependentUpon>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
+    <EmbeddedResource Include="Formularios\Kardex.resx">
+      <DependentUpon>Kardex.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmFacturacion.resx">
       <DependentUpon>FrmFacturacion.vb</DependentUpon>
     </EmbeddedResource>
