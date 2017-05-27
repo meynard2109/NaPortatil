@@ -7,9 +7,7 @@
         MsgBox("Esta cosa nada tiene XD")
         If 1 = 1 Then
 
-        End If
-        For Each i then
-
-        Next
+            MsgBox("Esta cosa nada tiene XD")
+            MsgBox("Esta cosa nada tiene XD")
     End Sub
 End Class
