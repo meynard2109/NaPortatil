@@ -11,12 +11,16 @@
 
         'mi codigo AADG
         If True Then
-            MsgBox("Este es un fragmento de codigo hecho por AADG")
-            Dim i As Integer = 0
-            Do While (i < 5)
-                MsgBox("Este es el fragmento de codigo hecho por AADG")
-                i += 1
-            Loop
+            MsgBox("Ahora se me antojo escribir esta cosa")
+            MsgBox("y esta cosa tambien")
+            Dim animal As String = "perro"
+            Select Case animal
+                Case "perro"
+                    MsgBox("soy un perro")
+                Case Else
+                    MsgBox("soy otra cosa menos un perro")
+            End Select
+
         End If
 
 
