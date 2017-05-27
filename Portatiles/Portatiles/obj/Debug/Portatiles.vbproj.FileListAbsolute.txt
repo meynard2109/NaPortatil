@@ -112,3 +112,6 @@ C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Deb
 C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.Resources.resources
 C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.vbproj.GenerateResource.Cache
 C:\Users\ESDREY_PC\Desktop\ProyectoNapo\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.exe.licenses
+C:\Users\ARIEL\Desktop\Prueba PLOP\Prueba ESDREY\NaPortatil\Portatiles\Portatiles\bin\Debug\Portatiles.exe.config
+C:\Users\ARIEL\Desktop\Prueba PLOP\Prueba ESDREY\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.exe
+C:\Users\ARIEL\Desktop\Prueba PLOP\Prueba ESDREY\NaPortatil\Portatiles\Portatiles\obj\Debug\Portatiles.pdb

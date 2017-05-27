@@ -6,7 +6,6 @@
         MsgBox("Esta cosa nada tiene XD")
         MsgBox("Esta cosa nada tiene XD")
 
-        MsgBox("Esta cosa nada tiene XD")
-        MsgBox("Esta cosa nada tiene XD")
+
     End Sub
 End Class
